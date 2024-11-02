@@ -1,0 +1,29 @@
+/*DOCUMENTO CSS*/
+
+* {margin: 0;
+    padding: 0}
+
+body {background-color: #e3ffbb;}
+
+h1 {padding: 15px;
+text-align: center;}
+
+h1, h2 {font-family: Matemasie, sans-serif;
+        color: #006848;}
+
+a {font-family: Quicksand, sans-serif;
+   color: #42975b;}
+
+.flex {display: flex;
+       width: 500px;
+       padding: 0px 0px 10px 0px;
+       margin: 0px auto 0px auto;
+       flex-flow: column wrap;}
+
+.item {width: 50%;
+       margin: 20px auto 0px auto;
+       text-align: center;}
+
+video {display: block;
+       padding: 20px;
+       margin: 2px auto 0px auto;}
